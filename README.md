@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Volkan</h1>
 <h3 align="center">A designer working on auditory perception</h3>
+<img align="right" alt="Coding" width="400" src="https://campaignjr.com/v1/wp-content/uploads/2016/12/03_funny-and-inspiring-graphic-design-related-gifs.gif">
 
 - 🌱 I’m currently learning **Audio AI**
 
